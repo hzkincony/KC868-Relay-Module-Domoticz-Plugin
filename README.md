@@ -31,7 +31,7 @@ The Domoticz plugin supports the following devices:
 ![image](https://www.kincony.com/images/domoticz/raspberry-pi-domoticz-2.png)
   - Download the file "plugin.py" from this repository into your Domotics installation's plugin directory.
 
-3. Configure your KC868 device. Find its ip address and port, and make sure "Work Mode" is set to "TCP Server".
+3. Configure your KC868 device. Write down its ip address and port. Make sure "Work Mode" is set to "TCP Server".
   - when using ethernet: ![image](https://www.kincony.com/images/domoticz/ip-ethernet.jpg)
   - when using wifi: ![image](https://www.kincony.com/images/domoticz/ip-wifi.jpg) 
 
