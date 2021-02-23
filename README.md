@@ -2,6 +2,8 @@
 
 This repository contains a Domoticz plugin for users of the  [Hangzhou Kincony Electronics KC868-H series ethernet relay modules](https://www.kincony.com/product/relay-controller).
 
+![image](https://www.kincony.com/wp-content/uploads/2020/11/domoticz-32-relay.jpg)
+
 The Domoticz plugin supports the following devices:
 - KC868-H2
 - KC868-H2B
@@ -20,8 +22,6 @@ The Domoticz plugin supports the following devices:
 - KC868-H32L
 - KC868-H32W
 - KC868-H32LW
-
-![image](https://www.kincony.com/wp-content/uploads/2020/11/domoticz-32-relay.jpg)
 
 ## Installation
 1. Make sure you have a Raspberry Pi and installed domoticz. Here is Wiki for how to install domoticz on Raspberry_Pi
