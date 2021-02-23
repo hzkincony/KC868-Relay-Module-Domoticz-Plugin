@@ -24,7 +24,7 @@ The Domoticz plugin supports the following devices:
 - KC868-H32LW
 
 ## Installation
-1. Make sure you have a Raspberry Pi and installed domoticz. Here is Wiki for how to install domoticz on Raspberry_Pi
+1. Get a Raspberry Pi and install domoticz. The [Domoticz wiki](https://www.domoticz.com/wiki/Raspberry_Pi) contains detailed installation instructions.
 
 2. Install the KC868 Domoticz plugin:
   - Create a subdirectory “KC868” in your Domotics installation's plugin directory. The default plugin directory on your Raspberry Pi is ```/home/pi/domoticz/plugins```.
