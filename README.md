@@ -4,7 +4,7 @@ This repository contains a Domoticz plugin for users of the  [Hangzhou Kincony E
 
 ![image](https://www.kincony.com/wp-content/uploads/2020/11/domoticz-32-relay.jpg)
 
-The Domoticz plugin supports the following devices:
+The KinCony KC868 Domoticz plugin supports the following devices:
 - KC868-H2
 - KC868-H2B
 - KC868-H2W
